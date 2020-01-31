@@ -6,4 +6,4 @@ The hash of block #0 is hardcoded (000000000019d6689c085ae165831e934ff763ae46a2a
 # Building from source
 To build this program from source you will need `msbuild`, which you can download here:https://www.microsoft.com/en-us/download/details.aspx?id=48159
 
-Once you have it simply run `BuildFromSource.bat` and that's it! 
+Once you have it simply run `BuildFromSource.bat` and that's it! You will find the .exe file in the obj/Release folder.
